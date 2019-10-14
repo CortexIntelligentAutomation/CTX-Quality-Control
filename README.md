@@ -37,6 +37,8 @@ The CTX-Quality-Control module requires the following files:
 
 ### Other
 The CTX-Quality-Control module has the following additional requirements which are explained in detail in the [Installation section](#Installation):
+* PowerShell v5 to be installed on the application server
+* ImportExcel PowerShell module installed
 
 ## Installation
 Details of the installation can be found in the [CTX-Quality-Control Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Quality-Control/blob/master/CTX-Quality-Control%20-%20Deployment%20Plan.pdf).
@@ -70,5 +72,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-
