@@ -1,0 +1,16 @@
+DatabaseServer= "localhost"
+DatabaseName= "CortexWeb"
+PowerShellDomain = ""
+PowerShellUser = ""
+PowerShellPassword = ""
+QualityControlPowerShellModulesPath = "C:\Cortex\QC"
+CortexRepositoriesPath = "C:\CortexWeb"
+DisconnectedBlocksThreshold = 0
+UnusedVariablesThreshold = 0
+DescriptionCoverageThreshold = 70
+TimeSavingsThreshold = 0
+StateErrorHandlersThreshold = 0
+
+MailServer = ""
+MailServerPort = ""
+MailSender = ""
